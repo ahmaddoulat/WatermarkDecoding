@@ -1,0 +1,10 @@
+{
+	minSec: 10,
+	numSections: 2048,
+	mySecretKey: "1325120644847910511017410502569015818143326364017",
+	myWatermark: "101010101010101",
+	c: 0.70,
+	T: 0.24286434195193,
+	input_path: "C:\\Users\\doula\\Desktop\\testJson\\outTuple.txt",
+	output_path: "C:\\Users\\doula\\Desktop\\DecoderOutput\\EmbededWatermark.json"
+}
